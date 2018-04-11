@@ -1,0 +1,190 @@
+Microsoft Windows [版本 6.1.7601]版权所有 (c) 2009 Microsoft Corporation。保留所有权利。
+
+E:\Caemasar\electron>npm install -g cnpm --registry=https://registry.npm.taobao.orgC:\Users\Caemasar\AppData\Roaming\npm\cnpm -> C:\Users\Caemasar\AppData\Roaming\npm\node_modules\cnpm\bin\cnpm
++ cnpm@5.2.0added 46 packages, removed 54 packages and updated 47 packages in 202.283s
+E:\Caemasar\electron>cnpm install -g electron
+Downloading electron to C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron_tmp
+Copying C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron_tmp\_electron@1.8.4@electron to C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron
+Installing electron's dependencies to C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron/node_modules
+[1/3] @types/node@^8.0.24 installed at node_modules\_@types_node@8.10.7@@types\node[2/3] extract-zip@^1.0.3 installed at node_modules\_extract-zip@1.6.6@extract-zip
+[3/3] electron-download@^3.0.1 installed at node_modules\_electron-download@3.3.0@electron-download
+execute post install 1 scripts...[1/1] scripts.postinstall electron@1.8.4 run "node install.js"
+Downloading SHASUMS256.txt
+[============================================>] 100.0% of 3.43 kB (3.43 kB/s)
+[1/1] scripts.postinstall electron@1.8.4 finished in 39s
+Recently updated (since 2018-04-04): 3 packages (detail see file C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron\node_modules\.recently_updates.txt)
+  Today:
+    → @types/node@^8.0.24(8.10.7) (03:25:49)
+  2018-04-08
+    → electron-download@3.3.0 › nugget@2.0.1 › request@2.85.0 › aws4@^1.6.0(1.7.0) (06:24:14)
+  2018-04-04
+    → extract-zip@1.6.6 › concat-stream@1.6.0 › readable-stream@^2.2.2(2.3.6) (23:40:14)
+All packages installed (153 packages installed from npm registry, used 54s, speed 59.07kB/s, json 147(1.45MB), tarball 1.67MB)
+[electron@1.8.4] link C:\Users\Caemasar\AppData\Roaming\npm\electron@ -> C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron\cli.js
+
+E:\Caemasar\electron>cnpm install -g electron-forge
+Downloading electron-forge to C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron-forge_tmp
+Copying C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron-forge_tmp\_electron-forge@5.1.2@electron-forge to C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron-forge
+Installing electron-forge's dependencies to C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron-forge/node_modules
+[1/45] electron-forge-template-angular2@^1.0.3 installed at node_modules\_electron-forge-template-angular2@1.0.6@electron-forge-template-angular2
+[2/45] commander@^2.9.0 installed at node_modules\_commander@2.15.1@commander
+[3/45] electron-forge-template-vue@^1.0.2 installed at node_modules\_electron-forge-template-vue@1.0.3@electron-forge-template-vue
+[4/45] bluebird@^3.4.6 installed at node_modules\_bluebird@3.5.1@bluebird
+[5/45] electron-forge-template-react@^1.0.2 installed at node_modules\_electron-forge-template-react@1.0.4@electron-forge-template-react
+[6/45] colors@^1.1.2 installed at node_modules\_colors@1.2.1@colors
+[7/45] debug@^3.0.0 installed at node_modules\_debug@3.1.0@debug
+[8/45] electron-forge-template-react-typescript@^1.0.3 installed at node_modules\_electron-forge-template-react-typescript@1.0.6@electron-forge-template-react-typescript
+[9/45] form-data@^2.1.4 installed at node_modules\_form-data@2.3.2@form-data
+[10/45] glob@^7.1.1 installed at node_modules\_glob@7.1.2@glob
+[11/45] babel-register@^6.16.3 installed at node_modules\_babel-register@6.26.0@babel-register
+[12/45] log-symbols@^2.0.0 existed at node_modules\_log-symbols@2.2.0@log-symbols
+[13/45] mime-types@^2.1.17 existed at node_modules\_mime-types@2.1.18@mime-types
+[14/45] node-fetch@^2.0.0 existed at node_modules\_node-fetch@2.1.2@node-fetch
+[15/45] node-gyp@^3.4.0 existed at node_modules\_node-gyp@3.6.2@node-gyp
+[16/45] nugget@^2.0.1 existed at node_modules\_nugget@2.0.1@nugget
+[17/45] fs-extra@^5.0.0 installed at node_modules\_fs-extra@5.0.0@fs-extra
+[18/45] lodash.merge@^4.6.0 installed at node_modules\_lodash.merge@4.6.1@lodash.merge
+[19/45] parse-author@^2.0.0 existed at node_modules\_parse-author@2.0.0@parse-author
+[20/45] pify@^3.0.0 existed at node_modules\_pify@3.0.0@pify
+[21/45] cross-spawn-promise@^0.10.1 installed at node_modules\_cross-spawn-promise@0.10.1@cross-spawn-promise
+[22/45] @octokit/rest@^15.2.6 installed at node_modules\_@octokit_rest@15.2.6@@octokit\rest
+[23/45] semver@^5.3.0 existed at node_modules\_semver@5.5.0@semver
+[24/45] aws-sdk@^2.9.0 installed at node_modules\_aws-sdk@2.224.1@aws-sdk
+[25/45] inquirer@^5.0.0 installed at node_modules\_inquirer@5.2.0@inquirer
+[26/45] opn@^5.0.0 installed at node_modules\_opn@5.3.0@opn
+[27/45] sudo-prompt@^8.0.0 installed at node_modules\_sudo-prompt@8.2.0@sudo-prompt
+[28/45] s3@^4.4.0 installed at node_modules\_s3@4.4.0@s3
+[29/45] lodash.template@^4.4.0 installed at node_modules\_lodash.template@4.4.0@lodash.template
+[30/45] yarn-or-npm@^2.0.2 installed at node_modules\_yarn-or-npm@2.0.4@yarn-or-npm
+[31/45] ora@^2.0.0 installed at node_modules\_ora@2.0.0@ora
+platform unsupported electron-installer-debian@^0.8.0 Package require os(darwin, linux) not compatible with your platform(win32)
+[electron-installer-debian@^0.8.0] optional install error: Package require os(darwin, linux) not compatible with your platform(win32)
+platform unsupported electron-installer-redhat@^0.5.0 Package require os(darwin, linux) not compatible with your platform(win32)
+[electron-installer-redhat@^0.5.0] optional install error: Package require os(darwin, linux) not compatible with your platform(win32)
+platform unsupported electron-installer-flatpak@^0.8.0 Package require os(darwin, linux) not compatible with your platform(win32)
+[electron-installer-flatpak@^0.8.0] optional install error: Package require os(darwin, linux) not compatible with your platform(win32)
+[35/45] tabtab@^2.2.1 installed at node_modules\_tabtab@2.2.2@tabtab
+platform unsupported electron-installer-dmg@0.2.1 › appdmg@^0.4.5 Package require os(darwin) not compatible with your platform(win32)
+[appdmg@^0.4.5] optional install error: Package require os(darwin) not compatible with your platform(win32)
+[36/45] electron-installer-dmg@^0.2.0 installed at node_modules\_electron-installer-dmg@0.2.1@electron-installer-dmg
+[37/45] electron-wix-msi@^1.3.0 installed at node_modules\_electron-wix-msi@1.3.0@electron-wix-msi
+[38/45] username@^3.0.0 installed at node_modules\_username@3.0.0@username
+[39/45] electron-rebuild@^1.6.0 installed at node_modules\_electron-rebuild@1.7.3@electron-rebuild
+[40/45] electron-packager@^11.0.0 installed at node_modules\_electron-packager@11.2.0@electron-packager
+[41/45] electron-winstaller@^2.5.0 installed at node_modules\_electron-winstaller@2.6.4@electron-winstaller
+[42/45] resolve-package@^1.0.1 installed at node_modules\_resolve-package@1.0.1@resolve-package
+[43/45] electron-windows-store@^0.12.0 installed at node_modules\_electron-windows-store@0.12.0@electron-windows-store
+[44/45] zip-folder@^1.0.0 installed at node_modules\_zip-folder@1.0.0@zip-folder
+[45/45] electron-installer-snap@^2.0.0 installed at node_modules\_electron-installer-snap@2.0.1@electron-installer-snap
+execute post install 2 scripts...
+[1/2] scripts.postinstall tabtab@2.2.2 › inquirer@1.2.3 › external-editor@1.1.1 › spawn-sync@^1.0.15 run "node postinstall"
+[1/2] scripts.postinstall tabtab@2.2.2 › inquirer@1.2.3 › external-editor@1.1.1 › spawn-sync@^1.0.15 finished in 707ms
+[2/2] scripts.install electron-forge@5.1.2 run "node tabtab-install.js"
+User shell undefined not supported, skipping completion install
+[2/2] scripts.install electron-forge@5.1.2 finished in 1s
+deprecate s3@4.4.0 › graceful-fs@~3.0.5 please upgrade to graceful-fs 4 for compatibility with current and future versions of Node.js
+deprecate s3@4.4.0 › graceful-fs@3.0.11 › natives@^1.1.0 This module relies on Node.js's internals and will break at some point. Do not use it, and update to graceful-fs@4.x.
+deprecate zip-folder@1.0.0 › archiver@0.11.0 › glob@3.2.11 › minimatch@0.3 Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue
+deprecate electron-windows-store@0.12.0 › flatten-packages@0.1.4 › wrench@~1.5.4 wrench.js is deprecated! You should check out fs-extra (https://github.com/jprichardson/node-fs-extra) for any operations you were using wrench for. Thanks for all the usage over the years.
+Recently updated (since 2018-04-04): 10 packages (detail see file C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron-forge\node_modules\.recently_updates.txt)
+  Today:
+    → aws-sdk@^2.9.0(2.224.1) (06:24:14)
+    → electron-rebuild@1.7.3 › spawn-rx@2.0.12 › rxjs@^5.1.1(5.5.9) (12:30:24)
+  2018-04-09
+    → babel-register@6.26.0 › core-js@^2.5.0(2.5.5) (11:28:30)
+  2018-04-08
+    → electron-rebuild@1.7.3 › ora@1.4.0 › cli-spinners@^1.0.1(1.3.1) (17:15:22)
+    → electron-rebuild@1.7.3 › node-gyp@3.6.2 › request@2.85.0 › aws4@^1.6.0(1.7.0) (06:24:14)
+    → inquirer@5.2.0 › external-editor@2.2.0 › iconv-lite@0.4.21 › safer-buffer@^2.1.0(2.1.2) (18:42:42)
+    → electron-packager@11.2.0 › resolve@^1.1.6(1.7.0) (05:38:05)
+  2018-04-07
+    → inquirer@5.2.0 › external-editor@2.2.0 › iconv-lite@^0.4.17(0.4.21) (12:31:13)
+  2018-04-06
+    → s3@4.4.0 › graceful-fs@3.0.11 › natives@^1.1.0(1.1.3) (02:21:18)
+s@^1.1.0(1.1.3) (02:21:1
+  2018-04-04                                @1.6.6 › concat-stream@1.6.0 › readable-stream@^2.2.2(2.3.6) (23:40:14)
+    → electron-packager@11.2.0 › extract-ziped from npm registry, used 50s, speed 618.15kB/s, json 398(4.79MB), tarball 25.37MB)
+@1.6.6 › concat-stream@1                    r\AppData\Roaming\npm\electron-forge@ -> C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electAll packages installed (477 packages install
+ed from npm registry, use                   r\AppData\Roaming\npm\forge@ -> C:\Users\Caemasar\AppData\Roaming\npm\node_modules\electron-forge[electron-forge@5.1.2] link C:\Users\Caemasa
+    → s3@4.4.0 › graceful-fs@3.  2018-04-04
+    → electron-packager@11.2.0All packages installed (477 pack[electron-forge@5.1.2] link C:\Uron-forge\dist\electron-forge.js[electron-forge@5.1.2] link C:\U\dist\electron-forge.js
+[electron-forge@5.1.2] link C:\Udules\electron-forge\script\vsco[electron-forge@5.1.2] link C:\Udules\electron-forge\script\vscoE:\Caemasar\electron>electron-fo√ Checking your system
+√ Initializing Project Director
+√ Initializing Git Repository
+√ Copying Starter Files
+√ Initializing NPM Module
+√ Installing NPM Dependencies
+
+E:\Caemasar\electron>cd notepad
+
+E:\Caemasar\electron\notepad>git bash
+git: 'bash' is not a git command. See 'git --help'.
+
+The most similar command is
+        stash
+
+E:\Caemasar\electron\notepad>git --help
+usage: git [--version] [--help] [-C <path>] [-c name=value]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone      Clone a repository into a new directory
+   init       Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add        Add file contents to the index
+   mv         Move or rename a file, a directory, or a symlink
+   reset      Reset current HEAD to the specified state
+   rm         Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect     Use binary search to find the commit that introduced a bug
+   grep       Print lines matching a pattern
+   log        Show commit logs
+   show       Show various types of objects
+   status     Show the working tree status
+
+grow, mark and tweak your common history
+   branch     List, create, or delete branches
+   checkout   Switch branches or restore working tree files
+   commit     Record changes to the repository
+   diff       Show changes between commits, commit and working tree, etc
+   merge      Join two or more development histories together
+   rebase     Reapply commits on top of another base tip
+   tag        Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch      Download objects and refs from another repository
+   pull       Fetch from and integrate with another repository or a local branch
+   push       Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+
+E:\Caemasar\electron\notepad>git log
+commit 618e719878f7fb7a7caaa063d36f01c52722e872 (HEAD -> master)
+Author: Caemasar BI <caemasar@protonmail.com>
+Date:   Wed Apr 11 17:31:06 2018 +0800
+
+    init
+
+E:\Caemasar\electron\notepad>git remote add origin git@github.com:caemasar/electron-notepad.git
+
+E:\Caemasar\electron\notepad>git push origin master
+Enter passphrase for key '/c/Users/Caemasar/.ssh/id_rsa':
+Counting objects: 13, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (13/13), 63.60 KiB | 1.77 MiB/s, done.
+Total 13 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To github.com:caemasar/electron-notepad.git
+ * [new branch]      master -> master
+
+E:\Caemasar\electron\notepad>exit
