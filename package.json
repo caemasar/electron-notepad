@@ -2,7 +2,7 @@
   "name": "notepad",
   "productName": "notepad",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "A notepad app like windows notepad.",
   "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "Caemasar",
-  "license": "MIT",
+  "license": "Apache License 2.0",
   "config": {
     "forge": {
       "make_targets": {
@@ -29,7 +29,8 @@
         ]
       },
       "electronPackagerConfig": {
-        "packageManager": "npm"
+        "packageManager": "npm",
+        "asar": true
       },
       "electronWinstallerConfig": {
         "name": "notepad"
